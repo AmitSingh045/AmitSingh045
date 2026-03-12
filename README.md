@@ -26,4 +26,4 @@
 ## 📫 Contact
 
 LinkedIn: https://www.linkedin.com/in/amit-kumar-singh-6ab422331
-Email: [amitsng20052@gmail.com](mailto:amitsng20052@gmail.com)
+Email: [amitsng20052@gmail.com](mailto:amitsng2005@gmail.com)
