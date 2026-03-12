@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Amit Kumar Singh 👋
 
-<!--
-**AmitSingh045/AmitSingh045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student (ITER, SOA University)
+💻 Interested in Backend Development and Web Development
 
-Here are some ideas to get you started:
+## 🔧 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Java
+* Django
+* HTML, CSS, JavaScript
+* Data Structures & Algorithms
+
+## 🚀 Projects
+
+* Django Blog Website
+* Java Programs & DSA Practice
+
+## 🌱 Currently Learning
+
+* Advanced Django
+* REST APIs
+* Database Design
+* System Design Basics
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/amit-kumar-singh-6ab422331
+Email: [amitsng20052@gmail.com](mailto:amitsng20052@gmail.com)
